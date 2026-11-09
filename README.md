@@ -1,2 +1,27 @@
-# Linear-Algebra1-Recitations-26Fall
-Recitation materials for the course Linear Algebra I in ShanghaiTech University, in the semester 2026 Fall, made by TA Mincan Li.
+# 线性代数 I 习题课 · 2026 秋
+
+**Linear Algebra I Recitations · ShanghaiTech University**
+
+本仓库收录上海科技大学 2026 年秋季《线性代数 I》的习题课课件和配套练习，由课程助教李岷璨（Mincan Li）整理。课件回顾正课重难点，并通过例题和部分作业题讲解常用的计算与证明方法。
+
+## 习题课资料
+
+| 课次 | 日期 | 主要内容 | 课件 | 源文件 | 配套习题 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 第 1 次 | 2026-09-21 | 线性方程组、高斯消元法、低阶行列式 | [PDF](./1/1.pdf) | [Markdown](./1/1.md) | [第一周习题](./1/第一周习题.pdf) |
+| 第 2 次 | 2026-09-28 | 线性相关与无关、基与维数、秩、方程组的可解性 | [PDF](./2/2.pdf) | [Markdown](./2/2.md) | [第二周习题](./2/第二周习题.pdf) |
+| 第 3 次 | 2026-10-12 | 线性映射、矩阵运算、初等矩阵、分块矩阵与求逆 | [PDF](./3/3.pdf) | [Markdown](./3/3.md) | [第三周习题](./3/第三周习题.pdf) |
+| 第 4 次 | 2026-10-19 | 特殊矩阵、线性方程组的解空间、行列式初步 | [PDF](./4/4.pdf) | [Markdown](./4/4.md) | [第四周习题](./4/第四周习题.pdf) |
+| 第 5 次 | 2026-10-26 | 行列式的性质、按行或列展开、计算技巧 | [PDF](./5/5.pdf) | [Markdown](./5/5.md) | [第五周习题](./5/第五周习题.pdf) |
+| 第 6 次 | 2026-11-02 | 矩阵可逆的判据、伴随矩阵、克拉默法则、分块矩阵的行列式 | [PDF](./6/6.pdf) | [Markdown](./6/6.md) | [第六周习题](./6/第六周习题.pdf) |
+| 第 7 次 | 2026-11-09 | 矩阵的子式、基变换、子空间的交、和、直和与补空间 | [PDF](./7/7.pdf) | [Markdown](./7/7.md) | — |
+
+## 阅读与编辑
+
+从上表打开课件 PDF 即可阅读。需要下载整套资料时，可在仓库首页选择 **Code → Download ZIP**。
+
+Markdown 源文件采用 Marp 排版，公式由 MathJax 渲染。可使用 VS Code 的 Marp for VS Code 扩展预览，课件图片位于各次课目录下的 `img/` 中。
+
+## 勘误与反馈
+
+欢迎反馈公式、题目或链接中的错误。提交时请注明课次，并附上页码或文件名。[提交 Issue](https://github.com/lonelyplanet4869/Linear-Algebra1-Recitations-26Fall/issues)
